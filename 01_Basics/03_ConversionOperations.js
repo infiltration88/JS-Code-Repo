@@ -50,6 +50,6 @@ let BooleanLoggedIn = Boolean(LoggedIn)
 
 let someNumber = 33
 let StringsomeNumber = String(someNumber);
-console.log(typeof someNumber);
-console.log(typeof StringsomeNumber);
-console.log(StringsomeNumber);
+// console.log(typeof someNumber);
+// console.log(typeof StringsomeNumber);
+// console.log(StringsomeNumber);
